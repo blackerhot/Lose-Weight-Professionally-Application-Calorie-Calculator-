@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#E9EFFE"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="528dp"
+        android:layout_height="707dp">
+
+        <RadioGroup
+            android:id="@+id/radioG"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView90"
+            android:layout_alignLeft="@+id/editAge"
+            android:layout_alignStart="@+id/editAge"
+            android:orientation='horizontal'>
+
+            <RadioButton
+                android:id="@+id/radioMale"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignEnd="@+id/butinfoCalv2"
+                android:layout_alignRight="@+id/butinfoCalv2"
+                android:layout_alignTop="@+id/textView90"
+                android:layout_weight="1"
+                android:text="ชาย"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/radioFemale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="19dp"
+                android:layout_marginStart="80dp"
+                android:layout_toEndOf="@+id/radioG"
+                android:layout_toRightOf="@+id/radioG"
+                android:text="หญิง"
+                android:textSize="20dp" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textView86"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/editWeight"
+            android:layout_alignBottom="@+id/editWeight"
+            android:layout_alignLeft="@+id/textView87"
+            android:layout_alignStart="@+id/textView87"
+            android:layout_weight="1"
+            android:text="น้ำหนัก"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/butinfoCalv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="backinfoV2"
+            android:text="บันทึก"
+            android:textSize="20dp"
+            android:layout_marginTop="39dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginStart="12dp"
+            android:layout_below="@+id/spinner"
+            android:layout_alignLeft="@+id/spinner"
+            android:layout_alignStart="@+id/spinner" />
+
+        <TextView
+            android:id="@+id/textView85"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/editHeight"
+            android:layout_alignBottom="@+id/editHeight"
+            android:layout_alignLeft="@+id/textView87"
+            android:layout_alignStart="@+id/textView87"
+            android:layout_weight="1"
+            android:text="ส่วนสูง"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textView87"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="55dp"
+            android:layout_weight="1"
+            android:text="ชื่อผู้ใช้"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textView89"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/editAge"
+            android:layout_alignBottom="@+id/editAge"
+            android:layout_alignLeft="@+id/textView86"
+            android:layout_alignStart="@+id/textView86"
+            android:text="อายุ"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textView90"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView89"
+            android:layout_alignStart="@+id/textView89"
+            android:layout_below="@+id/editAge"
+            android:layout_marginTop="23dp"
+            android:text="เพศ"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/editUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView87"
+            android:layout_alignBottom="@+id/textView87"
+            android:layout_marginLeft="43dp"
+            android:layout_marginStart="43dp"
+            android:layout_toEndOf="@+id/textView87"
+            android:layout_toRightOf="@+id/textView87"
+            android:background="@drawable/round"
+            android:ems="10"
+            android:hint="ชื่อผู้ใช้งาน"
+            android:inputType="textPersonName"
+            android:padding="9dp" />
+
+        <EditText
+            android:id="@+id/editHeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editUser"
+            android:layout_alignStart="@+id/editUser"
+            android:layout_below="@+id/editUser"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/round"
+            android:ems="10"
+            android:hint="เซนติเมตร"
+            android:inputType="textPersonName|numberDecimal"
+            android:padding="9dp" />
+
+        <EditText
+            android:id="@+id/editWeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:background="@drawable/round"
+            android:ems="10"
+            android:hint="กิโลกรัม"
+            android:inputType="textPersonName|numberDecimal"
+            android:padding="9dp"
+            android:layout_below="@+id/editHeight"
+            android:layout_alignLeft="@+id/editHeight"
+            android:layout_alignStart="@+id/editHeight" />
+
+        <EditText
+            android:id="@+id/editAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editWeight"
+            android:layout_alignStart="@+id/editWeight"
+            android:layout_below="@+id/editWeight"
+            android:layout_marginTop="13dp"
+            android:background="@drawable/round"
+            android:ems="10"
+            android:hint="ปี"
+            android:inputType="textPersonName|number"
+            android:padding="9dp"
+            android:selectAllOnFocus="false"
+            android:singleLine="false" />
+
+        <TextView
+            android:id="@+id/textActi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="กิจกรรม"
+            android:textSize="20dp"
+            android:layout_alignBottom="@+id/spinner"
+            android:layout_alignLeft="@+id/textView90"
+            android:layout_alignStart="@+id/textView90" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/radioG"
+            android:layout_alignLeft="@+id/radioG"
+            android:layout_alignStart="@+id/radioG" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="แก้ไขข้อมูลประจำตัว"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_marginRight="22dp"
+            android:layout_marginEnd="22dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignRight="@+id/editUser"
+            android:layout_alignEnd="@+id/editUser" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

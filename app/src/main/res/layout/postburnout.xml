@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#E9EFFE"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginRight="8dp"
+        android:id="@+id/post_type2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/post_unit2"
+        android:src="@mipmap/activi"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:fontFamily="sans-serif-light"
+        android:textSize="19sp"
+        android:id="@+id/post_title2"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/post_type2"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unit"
+        android:id="@+id/post_unit2"
+        android:textSize="13sp"
+        android:layout_below="@+id/post_calories2"
+        android:layout_toRightOf="@+id/post_type2"
+        android:layout_toEndOf="@+id/post_type2" />
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calories"
+        android:id="@+id/post_calories2"
+        android:textSize="17sp"
+        android:layout_alignBottom="@+id/post_title2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

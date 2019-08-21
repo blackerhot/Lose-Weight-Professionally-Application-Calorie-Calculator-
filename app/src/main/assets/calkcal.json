@@ -1,0 +1,5384 @@
+﻿{
+  "Activity": [
+    {
+      "calories_10m": "75",
+      "time": "10",
+      "title": "บิลเลียด",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "วิ่ง(8กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "330",
+      "time": "10",
+      "title": "วิ่ง(10กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "165",
+      "time": "10",
+      "title": "แอโรบิก(low impact)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "150",
+      "time": "10",
+      "title": "สนอร์เกิลลิ่ง",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "150",
+      "time": "10",
+      "title": "สเก็ตบอลร์ด",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "210",
+      "time": "10",
+      "title": "สเก็ตน้ำแข็ง",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "สกี",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "300",
+      "time": "10",
+      "title": "ศิลปะการป้องกันตัว (เช่นยูโด)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "180",
+      "time": "10",
+      "title": "ว่ายน้ำ(ทั่วไป)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "ว่ายน้ำ(ท่ากรรเชียง)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "300",
+      "time": "10",
+      "title": "ว่ายน้ำ(ท่ากบ)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "330",
+      "time": "10",
+      "title": "ว่ายน้ำ(ท่าผีเสื้อ)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "330",
+      "time": "10",
+      "title": "ว่ายน้ำ(ท่าฟรีสไตล์ )",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "วอลเลย์บอลชายหาด",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "90",
+      "time": "10",
+      "title": "วอลเลย์บอล",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "เล่นบาส",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "210",
+      "time": "10",
+      "title": "เล่นเทนนิส",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "210",
+      "time": "10",
+      "title": "แร็กเกตบอล",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "โยคะ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "ยิมนาสติก",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "105",
+      "time": "10",
+      "title": "ยิงธนู",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "180",
+      "time": "10",
+      "title": "ฟันดาบ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "150",
+      "time": "10",
+      "title": "พายเรื่อ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "300",
+      "time": "10",
+      "title": "โปโลน้ำ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "ปีนเขา",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "255",
+      "time": "10",
+      "title": "ปั่นจักรยานเสือภูเขา",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "240",
+      "time": "10",
+      "title": "ปั่นจักรยาน(20กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "300",
+      "time": "10",
+      "title": "ปั่นจักรยาน(25กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "360",
+      "time": "10",
+      "title": "ปั่นจักรยาน(30กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "495",
+      "time": "10",
+      "title": "ปั่นจักรยาน(32+กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "90",
+      "time": "10",
+      "title": "โบว์ลิ่ง",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "210",
+      "time": "10",
+      "title": "แอโรบิก(high impact)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "ไท่เก๊ก",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "210",
+      "time": "10",
+      "title": "เตะบอล",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "90",
+      "time": "10",
+      "title": "เต้น(slow, waltz, foxtrot)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "165",
+      "time": "10",
+      "title": "เต้น(disco, ballroom, square)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "180",
+      "time": "10",
+      "title": "เต้น(Fast, ballet, twist)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "135",
+      "time": "10",
+      "title": "ตีแบต",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "165",
+      "time": "10",
+      "title": "ตีกอล์ฟ ถือไม้เอง",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "เดิน(5กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "150",
+      "time": "10",
+      "title": "เดิน(7กม ต่อ ชม)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "210",
+      "time": "10",
+      "title": "ดำน้ำ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "150",
+      "time": "10",
+      "title": "ซอฟต์บอล",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "270",
+      "time": "10",
+      "title": "ชกมวย",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "ขี่ม้า",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "300",
+      "time": "10",
+      "title": "กระโดดเชือก",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "135",
+      "time": "10",
+      "title": "ล้างรถ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "15",
+      "time": "15",
+      "title": "ล้างจาน",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "90",
+      "time": "10",
+      "title": "ถูบ้าน",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "40",
+      "time": "10",
+      "title": "ซักผ้าใช้เครื่อง(รวมตากผ้า)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "ซักผ้าใช้มือ(รวมตากผ้า)",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "25",
+      "time": "10",
+      "title": "ดูทีวี",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "75",
+      "time": "10",
+      "title": "รีดผ้า",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "120",
+      "time": "10",
+      "title": "ตัดหญ้า",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "130",
+      "time": "10",
+      "title": "ทำสวน",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "90",
+      "time": "10",
+      "title": "ดูดฝุ่น",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "50",
+      "time": "10",
+      "title": "รดน้ำต้นไม้",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "90",
+      "time": "10",
+      "title": "อาบน้ำให้สัตว์เลี้ยง",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "100",
+      "time": "10",
+      "title": "กวาดใบไม้",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "105",
+      "time": "10",
+      "title": "เดินช้อปปิ้ง",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "75",
+      "time": "10",
+      "title": "ทำกับข้าว",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "35",
+      "time": "10",
+      "title": "นั่งอ่านหนังสือ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "55",
+      "time": "10",
+      "title": "ขับรถ",
+      "unit": "นาที"
+    },
+    {
+      "calories_10m": "70",
+      "time": "10",
+      "title": "กวาดบ้าน",
+      "unit": "นาที"
+    }
+  ],
+  "Food": [
+    {
+      "calories": "279",
+      "quantity": "1",
+      "title": "เห็ดหูหนูแห้ง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "50",
+      "quantity": "1",
+      "title": "แกงไตปลา",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "กล้วยตาก",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "440",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวผัดกะเพราไก่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "545",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวผัดไทยกุ้งสดใส่ไข่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "กล้วยน้ำว้าปิ้ง",
+      "type": "ขนม",
+      "unit": "ผล"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเนื้อสับ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "กล้วยคลุกมะพร้าว",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "68",
+      "quantity": "1",
+      "title": "กระถิน 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเรือน้ำตกแห้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "280",
+      "quantity": "3",
+      "title": "กระทงทองไส้ไก่ซอสขาว",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "215",
+      "quantity": "3",
+      "title": "กระทงทองไส้ข้าวโพด",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "330",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเส้นเล็กหมูแห้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "420",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเส้นปลาแห้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "205",
+      "quantity": "1",
+      "title": "กระท้อนทรงเครื่อง",
+      "type": "ขนม",
+      "unit": "ผล"
+    },
+    {
+      "calories": "117",
+      "quantity": "1",
+      "title": "กระเทียม 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "กระเทียมจีน(ใบ)สุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "กระเพาะปลา",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "กระเพาะปลาตุ๋นน้ำแดง",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "กระยาสารท1x3นิ้ว",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "กระจับต้ม 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "255",
+      "quantity": "3",
+      "title": "กล้วยแขก",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "420",
+      "quantity": "3",
+      "title": "กล้วยไข่เชื่อม",
+      "type": "ขนม",
+      "unit": "ผล"
+    },
+    {
+      "calories": "200",
+      "quantity": "9",
+      "title": "กล้วยฉาบ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "กล้วยต้มจิ้มมะพร้าว",
+      "type": "ขนม",
+      "unit": "จาน"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "กล้วยน้ำว้า",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "230",
+      "quantity": "1",
+      "title": "กล้วยบวชชี",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "145",
+      "quantity": "1",
+      "title": "กล้วยปิ้งชุบกะทิ",
+      "type": "ขนม",
+      "unit": "ผล"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "กล้วยหอม",
+      "type": "ผลไม้",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "ก๋วยจั๊บ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "235",
+      "quantity": "1",
+      "title": "ก๋วยจั๊บญวณ",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "435",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวคั่วไก่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "320",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวต้มยำกุ้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเนื้อเรียง",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "435",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวราดหน้าปลากะพง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเรือน้ำตกน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเส้นปลาน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "335",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวเส้นเล็กต้มยำหมู",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "520",
+      "quantity": "1",
+      "title": "เส้นใหญ่ผัดซีอิ๊วใส่ไข่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "405",
+      "quantity": "1",
+      "title": "เส้นใหญ่ราดหน้าหมู",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวหลอด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "กะทิ",
+      "type": "ไขมัน",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "195",
+      "quantity": "3",
+      "title": "กะละแม",
+      "type": "ขนม",
+      "unit": "ห่อเล็ก"
+    },
+    {
+      "calories": "380",
+      "quantity": "2",
+      "title": "กะหรี่พัฟ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "29",
+      "quantity": "1",
+      "title": "กะหล่ำดอก 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "25",
+      "quantity": "1",
+      "title": "กะหล่ำปลี",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "2",
+      "quantity": "1",
+      "title": "กาแฟผงสำเร็จรูป",
+      "type": "เครื่องดื่ม",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "กาแฟเย็น",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "55",
+      "quantity": "1",
+      "title": "กาแฟร้อน",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "259",
+      "quantity": "3",
+      "title": "กุ้งทอดกระเทียมพริกไทย",
+      "type": "กับข้าว",
+      "unit": "ตัวกลาง"
+    },
+    {
+      "calories": "185",
+      "quantity": "1",
+      "title": "กุ้งนางนึ่งนมสด",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "235",
+      "quantity": "1",
+      "title": "กุ้งผัดพริกอ่อน",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "กุ้งอบวุ้นเส้น",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "กุนเชียงทอด",
+      "type": "กับข้าว",
+      "unit": "คู่เล็ก"
+    },
+    {
+      "calories": "38",
+      "quantity": "1",
+      "title": "กุ้ยช่าย 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "กุ้ยช่าย (นึ่ง)",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "246",
+      "quantity": "1",
+      "title": "เกาลัดคั่ว 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "เกาลัดจีน 35 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "เกาเหลาลูกชิ้นน้ำใส",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "235",
+      "quantity": "3",
+      "title": "เกี๊ยวกรอบ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "635",
+      "quantity": "1",
+      "title": "เกี๊ยวกรอบราดหน้ากุ้ง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "190",
+      "quantity": "3",
+      "title": "เกี๊ยวซ่า",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "275",
+      "quantity": "1",
+      "title": "เกี๊ยวกุ้งน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "เกี๊ยวปลาน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "450",
+      "quantity": "1",
+      "title": "แกงกะหรี่ไก่",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "325",
+      "quantity": "1",
+      "title": "แกงกะหรี่หมู",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "195",
+      "quantity": "1",
+      "title": "แกงขี้เหล็ก",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "245",
+      "quantity": "1",
+      "title": "แกงขี้เหล็กหมูย่าง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "แกงเขียวหวานไก่",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "235",
+      "quantity": "1",
+      "title": "แกงเขียวหวานปลาดุก",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "แกงเขียวหวานลูกชิ้นปลากราย",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "235",
+      "quantity": "1",
+      "title": "แกงเขียวหวานหมู",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "ไข่น้ำ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "แกงจืดตำลึงหมูสับ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "แกงจืดเต้าหู้ไม่ใส่หมูสับ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "แกงจืดเต้าหู้ยัดไส้",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "50",
+      "quantity": "1",
+      "title": "แกงจืดถั่วงอกไม่ใส่หมูสับ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "แกงจืดฟักยัดไส้",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "แกงจืดมะระยัดไส้",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "แกงจืดวุ้นเส้น",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "แกงป่าไก่",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "235",
+      "quantity": "1",
+      "title": "แกงเผ็ดไก่ใส่มะเขือ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "245",
+      "quantity": "1",
+      "title": "แกงเผ็ดไก่ใส่หน่อไม้",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "แกงเผ็ดเป็ดย่าง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "แกงเผ็ดฟักทองใส่หมู",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "แกงเผ็ดลูกชิ้นปลา",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "245",
+      "quantity": "1",
+      "title": "แกงเผ็ดหมูยอดมะพร้าว",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "325",
+      "quantity": "1",
+      "title": "แกงมัสมั่นไก่",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "แกงเลียง",
+      "type": "กับข้าว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "270",
+      "quantity": "1",
+      "title": "แกงส้มชะอมชุบไข่ทอดกับกุ้ง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "105",
+      "quantity": "1",
+      "title": "แกงส้มดอกแคกับกุ้ง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "แกงส้มปลาแปะซะ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "แกงส้มผักกะเฉด-ปลา",
+      "type": "กับข้าว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "105",
+      "quantity": "1",
+      "title": "แกงส้มผักบุ้งปลาช่อน",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "แกงส้มผักรวม",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "105",
+      "quantity": "1",
+      "title": "แกงส้มผักรวมกุ้ง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "แกงหมูเทโพ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "แกงเหลืองมะละกอกับกุ้ง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "แกงเหลืองหน่อไม้ดองกับปลา",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "60",
+      "quantity": "8",
+      "title": "แก้วมังกร",
+      "type": "ผลไม้",
+      "unit": "ชิ้นพอคำ"
+    },
+    {
+      "calories": "55",
+      "quantity": "15",
+      "title": "โก๋แก่รสต่างๆ",
+      "type": "ขนม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "โกโก้",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "550",
+      "quantity": "1",
+      "title": "โกยซีหมี่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "Whopper Junior(BK)",
+      "type": "เบเกอรี่",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "670",
+      "quantity": "1",
+      "title": "Whopper(BK)",
+      "type": "เบเกอรี่",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "ไก่ตุ๋นมะนาวดอง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "345",
+      "quantity": "1",
+      "title": "ไก่ทอด",
+      "type": "กับข้าว",
+      "unit": "น่อง"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "ไก่ผัดขิง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "ไก่ย่าง",
+      "type": "กับข้าว",
+      "unit": "น่อง"
+    },
+    {
+      "calories": "190",
+      "quantity": "3",
+      "title": "ขนมกรวย",
+      "type": "ขนม",
+      "unit": "กรวย"
+    },
+    {
+      "calories": "240",
+      "quantity": "2",
+      "title": "ขนมกล้วย",
+      "type": "ขนม",
+      "unit": "ห่อ"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "ขนมขี้หนู",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "ขนมเข่ง",
+      "type": "ขนม",
+      "unit": "กระทง"
+    },
+    {
+      "calories": "210",
+      "quantity": "2",
+      "title": "ขนมครก",
+      "type": "ขนม",
+      "unit": "คู่"
+    },
+    {
+      "calories": "50",
+      "quantity": "1",
+      "title": "ขนมจีน 50 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "320",
+      "quantity": "1",
+      "title": "ขนมจีนซาวน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "305",
+      "quantity": "1",
+      "title": "ขนมจีนน้ำเงี้ยว",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "450",
+      "quantity": "1",
+      "title": "ขนมจีนน้ำพริก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "ขนมจีนน้ำยา",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "120",
+      "quantity": "3",
+      "title": "ขนมจีบ",
+      "type": "ขนม",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "184",
+      "quantity": "2",
+      "title": "ขนมชั้น",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "165",
+      "quantity": "4",
+      "title": "ขนมต้มขาว",
+      "type": "ขนม",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "115",
+      "quantity": "2",
+      "title": "ขนมตาล",
+      "type": "ขนม",
+      "unit": "กระทง"
+    },
+    {
+      "calories": "265",
+      "quantity": "2",
+      "title": "ขนมถ้วย",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "43",
+      "quantity": "1",
+      "title": "ขนมถั่วแปป",
+      "type": "ขนม",
+      "unit": "จาน"
+    },
+    {
+      "calories": "223",
+      "quantity": "1",
+      "title": "ขนมปังไส้ไก่",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "185",
+      "quantity": "1",
+      "title": "ขนมปังไส้หมูหยอง",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "610",
+      "quantity": "1",
+      "title": "ข้าวผัดแหนม",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "790",
+      "quantity": "1",
+      "title": "ข้าวผัดอเมริกัน",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "ข้าวโพด 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "52",
+      "quantity": "1",
+      "title": "ข้าวโพดอ่อน 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ข้าวโพดอ่อนสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "585",
+      "quantity": "1",
+      "title": "ข้าวมันไก่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "695",
+      "quantity": "1",
+      "title": "ข้าวมันไก่ทอด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "418",
+      "quantity": "2",
+      "title": "ข้าวเม่าทอด",
+      "type": "ขนม",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "ข้าวยำปักษ์ใต้",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "400",
+      "quantity": "1",
+      "title": "ข้าวราดหน้าไก่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "465",
+      "quantity": "1",
+      "title": "ข้าวสตูว์ไก่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "ข้าวสวย(ข้าวกล้อง) 55 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "ข้าวสวย(ข้าวขาว) 60 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "ข้าวสวย(ข้าวซ้อมมือ) 55 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "540",
+      "quantity": "1",
+      "title": "ข้าวหน้ากุ้งผัดพริดสด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "495",
+      "quantity": "1",
+      "title": "ข้าวหน้าเป็ด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "540",
+      "quantity": "1",
+      "title": "ข้าวหมกไก่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "525",
+      "quantity": "1",
+      "title": "ข้าวหมูกระเทียม",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "560",
+      "quantity": "1",
+      "title": "ข้าวหมูแดง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "230",
+      "quantity": "1",
+      "title": "ข้าวหลาม",
+      "type": "ขนม",
+      "unit": "กระบอก"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "ข้าวเหนียวกะทิทุเรียน",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "205",
+      "quantity": "1",
+      "title": "ข้าวเหนียวดำเปียก",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "ข้าวเหนียวตัด",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "60",
+      "quantity": "8",
+      "title": "มะละกอ",
+      "type": "ผลไม้",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "197",
+      "quantity": "1",
+      "title": "ข้าวเหนียวมูลน้ำกะทิ",
+      "type": "ขนม",
+      "unit": "ชิ้นเล็ก"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "ข้าวเหนียวสังขยา",
+      "type": "ขนม",
+      "unit": "ห่อ"
+    },
+    {
+      "calories": "179",
+      "quantity": "1",
+      "title": "ข้าวเหนียวหน้ากุ้ง",
+      "type": "ขนม",
+      "unit": "ห่อ"
+    },
+    {
+      "calories": "440",
+      "quantity": "1",
+      "title": "ข้าวเหนียวหมูทอด",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "480",
+      "quantity": "1",
+      "title": "ข้าวเหนียวหมูสวรรค์",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "385",
+      "quantity": "1",
+      "title": "ข้าวอบเผือก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "231",
+      "quantity": "1",
+      "title": "ข้าวโอ๊ตดิบ 94 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "ข้าวโอ๊ตสุก",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ขิงแก่สุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ขิงอ่อน 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "แขนงกะหล่ำสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "231",
+      "quantity": "1",
+      "title": "โจ๊กไก่",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "510",
+      "quantity": "4",
+      "title": "กล้วยทอด",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "ต้มเลือดหมู",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "ไข่เค็ม",
+      "type": "ไข่",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "ไข่เจียว",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "ไข่เจียวหมูสับ",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "ไข่ดาว",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "ไข่ดาวทรงเครื่อง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "ไข่ต้มน้ำปลามะนาว",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "ไข่ตุ๋น",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "15",
+      "quantity": "1",
+      "title": "ไข่นกกระทา",
+      "type": "โปรตีน",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "ไข่พะโล้",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "ไขมันไก่",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "ไขมันหมู",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "310",
+      "quantity": "1",
+      "title": "ไข่ยัดไส้",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "ไข่ลวก",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "205",
+      "quantity": "1",
+      "title": "ไข่ลูกเขย",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "174",
+      "quantity": "3",
+      "title": "ไข่หงส์",
+      "type": "ขนม",
+      "unit": "ใบ"
+    },
+    {
+      "calories": "425",
+      "quantity": "22",
+      "title": "ครองแครง",
+      "type": "ขนม",
+      "unit": "ตัว"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "ครองแครงกะทิ",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "45",
+      "quantity": "2",
+      "title": "ครีมชีส",
+      "type": "ไขมัน",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "ครีมซุปไก่",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "15",
+      "quantity": "1",
+      "title": "ครีมเทียม",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "2",
+      "title": "ครีมนมสด",
+      "type": "ไขมัน",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "360",
+      "quantity": "1",
+      "title": "ครีมโรล",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "คอร์นเฟลค",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "คอหมูย่าง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "420",
+      "quantity": "1",
+      "title": "คะน้าหมูกรอบ",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "230",
+      "quantity": "1",
+      "title": "คัสตาร์ดน้ำตาลไหม้",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "5",
+      "quantity": "1",
+      "title": "คื่นช่าย",
+      "type": "ผัก",
+      "unit": "ต้น"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "คื่นช่ายฝรั่ง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "150",
+      "quantity": "2",
+      "title": "คุ้กกี้ข้าวโอ๊ต",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "235",
+      "quantity": "2",
+      "title": "คุ้กกี้ช็อคโกแลตชิพ",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "คุ้กกี้ชาเขียว",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "210",
+      "quantity": "2",
+      "title": "คุ้กกี้เนย",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "190",
+      "quantity": "2",
+      "title": "คุ้กกี้สิงคโปร์",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "190",
+      "quantity": "1",
+      "title": "คุ้กกี้ไส้สับปะรด",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "คูน 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "305",
+      "quantity": "1",
+      "title": "เค้กกล้วยตาก",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "เค้กกล้วยหอม",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "ถั่วเขียวต้มน้ำตาล",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "366",
+      "quantity": "1",
+      "title": "ถั่วแขก 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "30",
+      "quantity": "1",
+      "title": "ถั่วงอก 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "340",
+      "quantity": "1",
+      "title": "ถั่วดำดิบ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "366",
+      "quantity": "1",
+      "title": "ถั่วแดงดิบ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ถั่วผักยาวสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ถั่วฝักยาว",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "25",
+      "quantity": "1",
+      "title": "ถั่วฝักยาวสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "25",
+      "quantity": "1",
+      "title": "ถั่วแระต้ม",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ถั่วลันเตาสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "45",
+      "quantity": "10",
+      "title": "ถั่วลิสง",
+      "type": "ไขมัน",
+      "unit": "เมล็ด"
+    },
+    {
+      "calories": "530",
+      "quantity": "1",
+      "title": "ถั่วลิสงดิบ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "ถั่วลิสงต้ม",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "ถั่วลิสงแผ่นทอด",
+      "type": "ขนม",
+      "unit": "แผ่น"
+    },
+    {
+      "calories": "411",
+      "quantity": "1",
+      "title": "ถั่วเหลืองดิบ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "105",
+      "quantity": "3",
+      "title": "ทองม้วน",
+      "type": "ขนม",
+      "unit": "อันเล็ก"
+    },
+    {
+      "calories": "210",
+      "quantity": "2",
+      "title": "ทองหยิบ",
+      "type": "ขนม",
+      "unit": "ดอก"
+    },
+    {
+      "calories": "255",
+      "quantity": "1",
+      "title": "ทอดมันกุ้ง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "230",
+      "quantity": "1",
+      "title": "ทอดมันปลากราย",
+      "type": "กับข้าว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "20",
+      "quantity": "1",
+      "title": "ท๊อฟฟี่นม",
+      "type": "ขนม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "ทับทิมกรอบ",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "65",
+      "quantity": "1",
+      "title": "ทุเรียนกระดุม",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "ทุเรียนกวน",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "ทุเรียนก้านยาว",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "70",
+      "quantity": "1",
+      "title": "ทุเรียนชะนี",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "50",
+      "quantity": "8",
+      "title": "ทุเรียนทอดกรอบ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "78",
+      "quantity": "1",
+      "title": "ทุเรียนหมอนทอง",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "250",
+      "quantity": "3",
+      "title": "เทมปุระ",
+      "type": "กับข้าว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "นมข้นหวาน",
+      "type": "อื่นๆ",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "นมจืด(250cc)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "125",
+      "quantity": "1",
+      "title": "นมจืด(ไขมันต่ำ)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "นมจืด(ไม่มีไขมัน)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "75",
+      "quantity": "240",
+      "title": "นมถั่วเหลือง",
+      "type": "โปรตีน",
+      "unit": "ซีซี"
+    },
+    {
+      "calories": "125",
+      "quantity": "1",
+      "title": "นมถั่วเหลือง(จืด)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "นมถั่วเหลือง(หวานน้อย)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "นมปรุงแต่ง(รสหวาน)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "125",
+      "quantity": "1",
+      "title": "นมเปรี้ยวUHTรสผลไม้(200cc)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "นมเย็น",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "345",
+      "quantity": "1",
+      "title": "น่องไก่ทอด",
+      "type": "กับข้าว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำกระเจี๊ยบ",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "น้ำขิง(ขิงผงรสหวาน)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำจับเลี้ยง",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "291",
+      "quantity": "2",
+      "title": "น้ำจิ้มบ๊วยเจี่ย",
+      "type": "อื่นๆ",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "70",
+      "quantity": "1",
+      "title": "น้ำชาเขียว(250ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "70",
+      "quantity": "1",
+      "title": "น้ำชาเขียวผสมน้ำผึ้ง(250ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "20",
+      "quantity": "1",
+      "title": "น้ำตาล",
+      "type": "อื่นๆ",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "น้ำเต้า 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "น้ำเต้าหู้(จืด)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "น้ำนมข้าวโพด",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำใบเตย",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำใบบัวบก",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "น้ำปลามะนาว",
+      "type": "กับข้าว",
+      "unit": "ตัวเล็ก"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำผลไม้รวม",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "น้ำผักรวม",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "100",
+      "quantity": "2",
+      "title": "น้ำผึ้ง",
+      "type": "อื่นๆ",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำฝรั่ง100%(200ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "55",
+      "quantity": "2",
+      "title": "น้ำพริกกะปิผักสด",
+      "type": "กับข้าว",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "35",
+      "quantity": "1",
+      "title": "น้ำพริกปลาป่น",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "55",
+      "quantity": "1",
+      "title": "น้ำพริกมะขามเปียก",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "น้ำพริกมะขามสด",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำพริกมะม่วง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "195",
+      "quantity": "1",
+      "title": "น้ำพริกลงเรือ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "35",
+      "quantity": "2",
+      "title": "น้ำพริกหนุ่ม",
+      "type": "กับข้าว",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "160",
+      "quantity": "2",
+      "title": "น้ำพริกอ่อง",
+      "type": "กับข้าว",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "48",
+      "quantity": "1",
+      "title": "น้ำมะเขือเทศ",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "50",
+      "quantity": "1",
+      "title": "น้ำมะเขือเทศ100%(200ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำมะตูม",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำมะนาว",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "น้ำมะนาวปั่น",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำมะพร้าว",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "น้ำมะพร้าวผสมเนื้อ",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "น้ำมันข้าวโพด",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "น้ำมันคาโนล่า",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "น้ำมันถั่วลิสง",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "น้ำมันถั่วเหลือง",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "น้ำมันมะกอก",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "น้ำมันสลัด",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำลำใย",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำส้ม100%(200ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "3",
+      "quantity": "1",
+      "title": "น้ำส้มสายชู",
+      "type": "อื่นๆ",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "24",
+      "quantity": "1",
+      "title": "น้ำสลัดงาญี่ปุ่น",
+      "type": "ไขมัน",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "น้ำสัปปะรด100%(200ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำองุ่นแดง100%(200ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "น้ำอัดลม(หวาน)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "น้ำอัดลมประเภทโคล่า(325cc)",
+      "type": "เครื่องดื่ม",
+      "unit": "กระป๋อง"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "น้ำแอปเปิ้ลแดง100%(200ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "เนย",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "เนยแข็ง",
+      "type": "โปรตีน",
+      "unit": "แผ่น"
+    },
+    {
+      "calories": "45",
+      "quantity": "2",
+      "title": "เนยถั่ว",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "เนยเทียม",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "เนยสด",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "เนื้อไก่-น่อง",
+      "type": "โปรตีน",
+      "unit": "น่อง"
+    },
+    {
+      "calories": "280",
+      "quantity": "1",
+      "title": "เนื้อเค็มทอด3x5นิ้ว",
+      "type": "กับข้าว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "เนื้อน้ำตก",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "590",
+      "quantity": "1",
+      "title": "เนื้อผัดหวาน",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "312",
+      "quantity": "1",
+      "title": "เนื้อมะพร้าวแก่ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "77",
+      "quantity": "1",
+      "title": "เนื้อมะพร้าวอ่อน 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "บรอคโคลีสุก(หั่น)",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "บรั่นดี(60cc)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "340",
+      "quantity": "1",
+      "title": "บราวนี่",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "17",
+      "quantity": "1",
+      "title": "บวบ 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "บะจ่าง",
+      "type": "ขนม",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "515",
+      "quantity": "1",
+      "title": "บะหมี่กรอบราดหน้า",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "660",
+      "quantity": "1",
+      "title": "บะหมี่กรอบราดหน้าไก่หน่อไม้",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "690",
+      "quantity": "1",
+      "title": "บะหมี่กรอบราดหน้ารวมมิตร",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "540",
+      "quantity": "1",
+      "title": "บะหมี่กึ่งสำเร็จรูปผัดกระเพราหมู",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "530",
+      "quantity": "1",
+      "title": "บะหมี่กึ่งสำเร็จรูปผัดขี้เมา",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "415",
+      "quantity": "1",
+      "title": "บะหมี่เกี๊ยวเป็ดย่าง",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "305",
+      "quantity": "1",
+      "title": "บะหมี่เกี๊ยวหมูแดง-น้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "บะหมี่ดิบ1 ต่อ 2ก้อน 25 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "บะหมี่น่องไก่-น้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "บะหมี่น้ำต้มยำหมู",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "บะหมี่เป็ดน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "บะหมี่สำเร็จ(แช่น้ำ) 30 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "บะหมี่สำเร็จ(ไม่แช่น้ำ) 20 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "บะหมี่สุก 75 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "345",
+      "quantity": "1",
+      "title": "บะหมี่แห้งหมูแดง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "223",
+      "quantity": "1",
+      "title": "บัวลอย",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "บัวลอยน้ำขิง",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "บัวลอยเผือก",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "340",
+      "quantity": "1",
+      "title": "บาร์บีคิวซี่โครงหมูข้าวคลุกเนย",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "บีทรูทสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "285",
+      "quantity": "1",
+      "title": "บูลเบอร์รี่ชีสเค้ก",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "เบคอนทอด",
+      "type": "ไขมัน",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "148",
+      "quantity": "1",
+      "title": "เบียร์ไทย",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "470",
+      "quantity": "1",
+      "title": "แบล็กฟลอเรสต์เค้ก",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ใบกระเทียมสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "46",
+      "quantity": "1",
+      "title": "ใบกะเพราขาว 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "41",
+      "quantity": "1",
+      "title": "ใบกะเพราแดง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ใบกุ้ยช่าย",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "114",
+      "quantity": "1",
+      "title": "ใบขี้เหล็ก 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ใบชะพลูสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "20",
+      "quantity": "1",
+      "title": "ใบตำลึง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ใบทองหลาง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ใบทองหลางสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ใบบัวบก 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ใบมะม่วงอ่อนสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ใบแมงลัก 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ใบสะระแหน่ 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ใบโหระพา 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "155",
+      "quantity": "1",
+      "title": "ปลากระพงนึ่งมะนาว",
+      "type": "กับข้าว",
+      "unit": "ชิ้นกลาง"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ปลาช่อนอบเกลือ",
+      "type": "กับข้าว",
+      "unit": "ตัว"
+    },
+    {
+      "calories": "595",
+      "quantity": "1",
+      "title": "ปลาชุบขนมปังทอดสลัดผัก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ปลาซาบะย่าง",
+      "type": "กับข้าว",
+      "unit": "ตัว"
+    },
+    {
+      "calories": "260",
+      "quantity": "1",
+      "title": "ปลาแซลมอนย่าง120กรัม",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "470",
+      "quantity": "1",
+      "title": "ปลาทอดสามรส",
+      "type": "กับข้าว",
+      "unit": "ตัวกลาง"
+    },
+    {
+      "calories": "280",
+      "quantity": "1",
+      "title": "ปลาทูทอด",
+      "type": "กับข้าว",
+      "unit": "ตัวกลาง"
+    },
+    {
+      "calories": "560",
+      "quantity": "1",
+      "title": "ปลาราดซอสมะนาวมันฝรั่งทอด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "ปลาราดพริก",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "155",
+      "quantity": "1",
+      "title": "ปลาร้าทรงเครื่อง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "35",
+      "quantity": "1",
+      "title": "ปลาร้าสับ",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "ปลาเล็กปลาน้อยทอดกรอบ",
+      "type": "กับข้าว",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "190",
+      "quantity": "1",
+      "title": "ปลาสลิดทอด",
+      "type": "กับข้าว",
+      "unit": "ตัว"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "ปลาหมึกนึ่งมะนาว",
+      "type": "กับข้าว",
+      "unit": "ตัว"
+    },
+    {
+      "calories": "260",
+      "quantity": "1",
+      "title": "ปลาหมึกผัดฉ่า",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "37",
+      "quantity": "1",
+      "title": "ปลาหมึกย่าง",
+      "type": "กับข้าว",
+      "unit": "ไม้"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "ปลาอินทรีย์เค็มทอด",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "ปวยเล้งสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "65",
+      "quantity": "1",
+      "title": "ป๊อปคอร์น",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "เมล็ดแตงโมแห้ง",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "เมล็ดทานตะวันอบกรอบ",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "157",
+      "quantity": "1",
+      "title": "เมล็ดบัวนึ่ง 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "55",
+      "quantity": "1",
+      "title": "เมล็ดฟักทองอบกรอบ",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "45",
+      "quantity": "6",
+      "title": "เมล็ดมะม่วงหิมพานต์",
+      "type": "ไขมัน",
+      "unit": "เมล็ด"
+    },
+    {
+      "calories": "603",
+      "quantity": "1",
+      "title": "เมล็ดอัลมอนด์ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "60",
+      "quantity": "3",
+      "title": "เมี่ยงก๋วยเตี๋ยว",
+      "type": "ขนม",
+      "unit": "คำ"
+    },
+    {
+      "calories": "60",
+      "quantity": "3",
+      "title": "เมี่ยงคะน้า",
+      "type": "ขนม",
+      "unit": "คำ"
+    },
+    {
+      "calories": "90",
+      "quantity": "3",
+      "title": "เมี่ยงคำ",
+      "type": "ขนม",
+      "unit": "คำ"
+    },
+    {
+      "calories": "43",
+      "quantity": "1",
+      "title": "แม่โขง(45cc)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "112",
+      "quantity": "1",
+      "title": "แมงลักน้ำกะทิ",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "400",
+      "quantity": "1",
+      "title": "ยากิโซบะ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ยำกุนเชียง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ยำขนมจีน",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "105",
+      "quantity": "1",
+      "title": "ยำไข่ต้ม",
+      "type": "กับข้าว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "185",
+      "quantity": "1",
+      "title": "ยำถั่วพู",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "ยำเนื้อย่าง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "55",
+      "quantity": "1",
+      "title": "ยำปลากระป๋อง",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "275",
+      "quantity": "1",
+      "title": "ยำปลาดุกฟู",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "ยำผักกะเฉด",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "310",
+      "quantity": "1",
+      "title": "ยำผักบุ้งทอดกรอบ",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "115",
+      "quantity": "1",
+      "title": "ยำมะเขือยาว",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "215",
+      "quantity": "1",
+      "title": "ยำมาม่า",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "ยำรวมมิตรทะเล",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "ยำวุ้นเส้น",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "ยำไส้กรอก",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ยำหนังหมู",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "ยำหมูย่าง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "24",
+      "quantity": "1",
+      "title": "ยีสต์ 7 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "290",
+      "quantity": "1",
+      "title": "เย็นตาโฟน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "80",
+      "quantity": "2",
+      "title": "เยลลี่ถ้วย",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "20",
+      "quantity": "1",
+      "title": "แยม",
+      "type": "อื่นๆ",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "310",
+      "quantity": "1",
+      "title": "แยมโรล",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "โยเกิร์ต(ไขมันต่ำรสผลไม้)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "95",
+      "quantity": "1",
+      "title": "โยเกิร์ต(รสธรรมชาติ)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "175",
+      "quantity": "1",
+      "title": "โยเกิร์ต(รสผลไม้)",
+      "type": "เครื่องดื่ม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "230",
+      "quantity": "1",
+      "title": "รวมมิตร",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "675",
+      "quantity": "1",
+      "title": "โรตีแกงเนื้อ,หมู",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "145",
+      "quantity": "1",
+      "title": "โรตีสายไหม",
+      "type": "ขนม",
+      "unit": "อัน"
+    },
+    {
+      "calories": "60",
+      "quantity": "5",
+      "title": "ลองกอง",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "ลอดช่องน้ำกะทิ",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "215",
+      "quantity": "1",
+      "title": "ลอดช่องสิงคโปร์",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "125",
+      "quantity": "1",
+      "title": "ลาบไก่",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "ลำใยในน้ำเชื่อม",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "60",
+      "quantity": "4",
+      "title": "ลำไย",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "60",
+      "quantity": "4",
+      "title": "ลิ้นจี่",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "ลิ้นจี่ในน้ำเชื่อม",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "60",
+      "quantity": "15",
+      "title": "ลูกเกด",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "189",
+      "quantity": "2",
+      "title": "ลูกชิ้นกุ้ง",
+      "type": "โปรตีน",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "56",
+      "quantity": "10",
+      "title": "ลูกชิ้นไก่",
+      "type": "โปรตีน",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "210",
+      "quantity": "6",
+      "title": "ลูกชิ้นทอด",
+      "type": "กับข้าว",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "84",
+      "quantity": "10",
+      "title": "ลูกชิ้นเนื้อ",
+      "type": "โปรตีน",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "ลูกชิ้นปิ้ง",
+      "type": "ขนม",
+      "unit": "ไม้"
+    },
+    {
+      "calories": "170",
+      "quantity": "3",
+      "title": "ลูกชุบ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "365",
+      "quantity": "1",
+      "title": "ลูกเดือย 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "ลูกเดือยต้มน้ำตาล",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "ลูกตะลิงปลิง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "ลูกตาลลอยแก้ว",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "40",
+      "quantity": "1",
+      "title": "ลูกตาลอ่อน",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "ลูกพลับ",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "120",
+      "quantity": "60",
+      "title": "วอดก้า",
+      "type": "เครื่องดื่ม",
+      "unit": "cc"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "วอลนัท",
+      "type": "ไขมัน",
+      "unit": "ซีก"
+    },
+    {
+      "calories": "140",
+      "quantity": "60",
+      "title": "วิสกี้",
+      "type": "เครื่องดื่ม",
+      "unit": "cc"
+    },
+    {
+      "calories": "360",
+      "quantity": "1",
+      "title": "วีทเจิร์ม(จมูกข้าวสาลี)ดิบ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "414",
+      "quantity": "1",
+      "title": "วีทเจิร์มอบ(จมูกข้าวสาลี) 115 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "215",
+      "quantity": "1",
+      "title": "วุ้นกะทิ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "วุ้นมะพร้าวอ่อน",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "วุ้นเส้น(แช่น้ำ) 45 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "วุ้นเส้น(สุก) 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "520",
+      "quantity": "1",
+      "title": "วุ้นเส้นผัดไทยกุ้งสด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "84",
+      "quantity": "60",
+      "title": "ไวน์เชอรี่",
+      "type": "เครื่องดื่ม",
+      "unit": "cc"
+    },
+    {
+      "calories": "42",
+      "quantity": "60",
+      "title": "ไวน์แชมเปญ",
+      "type": "เครื่องดื่ม",
+      "unit": "cc"
+    },
+    {
+      "calories": "615",
+      "quantity": "1",
+      "title": "สเต็กไก่ทอดมันบด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "260",
+      "quantity": "1",
+      "title": "สเต็กปลาย่าง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "505",
+      "quantity": "1",
+      "title": "สเต็กหมูผักสดคลุก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "สเต็กหมูสลัดผักสด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "485",
+      "quantity": "1",
+      "title": "สปาเกตตี้กระเพรากุ้ง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "430",
+      "quantity": "1",
+      "title": "สปาเก็ตตี้ไก่อบ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "สปาเก็ตตี้สุก 46.67 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "ส้มเช้ง",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "ส้มตำไทย",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "35",
+      "quantity": "1",
+      "title": "ส้มตำปู",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "30",
+      "quantity": "3",
+      "title": "สละ(หวาน)",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "230",
+      "quantity": "1",
+      "title": "สลัดแขก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "45",
+      "quantity": "2",
+      "title": "สลัดน้ำข้น",
+      "type": "ไขมัน",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "สลัดน้ำใส",
+      "type": "ไขมัน",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "490",
+      "quantity": "1",
+      "title": "สลัดเนื้อสันในทอด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "สลัดผัก",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "สะเดาสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "204",
+      "quantity": "1",
+      "title": "สังขยา",
+      "type": "ขนม",
+      "unit": "ชิ้นเล็ก"
+    },
+    {
+      "calories": "20",
+      "quantity": "1",
+      "title": "สังขยา(ทาขนมปัง)",
+      "type": "ขนม",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "222",
+      "quantity": "1",
+      "title": "สังขยาเผือก",
+      "type": "ขนม",
+      "unit": "ชิ้นเล็ก"
+    },
+    {
+      "calories": "288",
+      "quantity": "1",
+      "title": "สังขยาฟักทอง",
+      "type": "ขนม",
+      "unit": "ชิ้นเล็ก"
+    },
+    {
+      "calories": "235",
+      "quantity": "1",
+      "title": "สาเกเชื่อมราดกะทิ",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "162",
+      "quantity": "1",
+      "title": "สาคูบัวลอย",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "170",
+      "quantity": "1",
+      "title": "สาคูเปียกรวมมิตร",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "348",
+      "quantity": "1",
+      "title": "สาคูเล็ก 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "205",
+      "quantity": "4",
+      "title": "สาคูไส้หมู",
+      "type": "ขนม",
+      "unit": "ลูก"
+    },
+    {
+      "calories": "348",
+      "quantity": "1",
+      "title": "สาคูใหญ่ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "สายบัว 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "116",
+      "quantity": "1",
+      "title": "สาลี่",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "สาลี่หอมผลเล็ก",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "345",
+      "quantity": "1",
+      "title": "สุกี้ยากี้ไก่-น้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "280",
+      "quantity": "1",
+      "title": "สุกียากี้แห้งทะเล",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "575",
+      "quantity": "1",
+      "title": "เส้นจันท์ผัดปู",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "เส้นเล็ก(สุก) 90 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "353",
+      "quantity": "1",
+      "title": "เส้นหมี่ 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "เส้นหมี่ขาว(สุก) 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "เส้นหมี่ลูกชิ้นน้ำใส",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "430",
+      "quantity": "1",
+      "title": "เส้นหมี่ลูกชิ้นหมูแห้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "เส้นใหญ่(สด) 60 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "เส้นใหญ่(สุก) 100 กรัม",
+      "type": "แป้งธัญพืช",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "280",
+      "quantity": "1",
+      "title": "ไส้กรอกทอด",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "465",
+      "quantity": "1",
+      "title": "ไส้กรอกเนื้อลูกวัวอบสลัดผัก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "ไส้กรอกอีสาน",
+      "type": "ขนม",
+      "unit": "อัน"
+    },
+    {
+      "calories": "240",
+      "quantity": "4",
+      "title": "ไส้อั่ว",
+      "type": "กับข้าว",
+      "unit": "ชิ้นพอคำ"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "หน่อไม้ 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "690",
+      "quantity": "1",
+      "title": "หมี่กรอบราดหน้าหมู",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "405",
+      "quantity": "1",
+      "title": "หมี่กะทิ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "395",
+      "quantity": "1",
+      "title": "หมี่ซั่วผัด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "หมุย่างเกาหลี",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "560",
+      "quantity": "1",
+      "title": "หมูกรอบ",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "หมูกะทะ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "645",
+      "quantity": "1",
+      "title": "หมูคลุกเกร็ดขนมปังทอดซอส",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "375",
+      "quantity": "1",
+      "title": "หมูจุ่ม",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "245",
+      "quantity": "1",
+      "title": "หมูทอดกระเทียมพริกไทย",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "635",
+      "quantity": "1",
+      "title": "หมูทอดเนยสลัดน้ำใส",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "หมูน้ำตก",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "150",
+      "quantity": "2",
+      "title": "หมูปิ้ง",
+      "type": "ขนม",
+      "unit": "ไม้"
+    },
+    {
+      "calories": "275",
+      "quantity": "1",
+      "title": "หมูผัดขิง",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "135",
+      "quantity": "2",
+      "title": "หมูฝอย",
+      "type": "กับข้าว",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "250",
+      "quantity": "2",
+      "title": "หมูยอชุบแป้งทอด",
+      "type": "กับข้าว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "230",
+      "quantity": "2",
+      "title": "หมูสะเต๊ะ",
+      "type": "กับข้าว",
+      "unit": "ไม้"
+    },
+    {
+      "calories": "28",
+      "quantity": "1",
+      "title": "หยวกกล้วยอ่อน 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "205",
+      "quantity": "1",
+      "title": "หลนปูเค็มผักสด",
+      "type": "กับข้าว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "48",
+      "quantity": "1",
+      "title": "หอมแดง 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "42",
+      "quantity": "1",
+      "title": "หอมหัวใหญ่",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "หอมหัวใหญ่สุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "55",
+      "quantity": "6",
+      "title": "หอยนางรม",
+      "type": "โปรตีน",
+      "unit": "ตัว"
+    },
+
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "เห็ดบัวสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "18",
+      "quantity": "1",
+      "title": "เห็ดฟาง",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "เห็ดฟางสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "39",
+      "quantity": "1",
+      "title": "เห็ดหอม 100 กรัม",
+      "type": "ผัก",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "56",
+      "quantity": "1",
+      "title": "เห็ดหูหนูสุก",
+      "type": "ผัก",
+      "unit": "ถ้วยตวง"
+    },
+    {
+      "calories": "380",
+      "quantity": "1",
+      "title": "ก๋วยเตี๋ยวแขก",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "120",
+      "quantity": "60",
+      "title": "เหล้ายิน",
+      "type": "เครื่องดื่ม",
+      "unit": "cc"
+    },
+    {
+      "calories": "120",
+      "quantity": "60",
+      "title": "เหล้ารัม",
+      "type": "เครื่องดื่ม",
+      "unit": "cc"
+    },
+    {
+      "calories": "175",
+      "quantity": "1",
+      "title": "แหนมสด",
+      "type": "กับข้าว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "290",
+      "quantity": "1",
+      "title": "แหนมสดข้าวทอด",
+      "type": "ขนม",
+      "unit": "จาน"
+    },
+    {
+      "calories": "60",
+      "quantity": "20",
+      "title": "องุ่น(เปรี้ยวอมหวาน)",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "60",
+      "quantity": "15",
+      "title": "องุ่น(หวาน)",
+      "type": "ผลไม้",
+      "unit": "ผล"
+    },
+    {
+      "calories": "60",
+      "quantity": "15",
+      "title": "องุ่นเขียว",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "60",
+      "quantity": "15",
+      "title": "องุ่นแดง",
+      "type": "ผลไม้",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "60",
+      "quantity": "5",
+      "title": "อ้อยควั่น",
+      "type": "ผลไม้",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "395",
+      "quantity": "1",
+      "title": "อัพไซด์ดาวน์เค้ก",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "45",
+      "quantity": "1",
+      "title": "อัลมอนต์อบเกลือ",
+      "type": "ขนม",
+      "unit": "ช้อนโต๊ะ"
+    },
+    {
+      "calories": "145",
+      "quantity": "4",
+      "title": "อาลัว",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "225",
+      "quantity": "1",
+      "title": "เอแคร์ไส้ครีม",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "แอปเปิ้ลเขียว",
+      "type": "ผลไม้",
+      "unit": "ผลเล็ก"
+    },
+    {
+      "calories": "60",
+      "quantity": "1",
+      "title": "แอปเปิ้ลแดง",
+      "type": "ผลไม้",
+      "unit": "ผลเล็ก"
+    },
+    {
+      "calories": "165",
+      "quantity": "1",
+      "title": "โอเลี้ยง",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "โอวัลติน",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "215",
+      "quantity": "2",
+      "title": "ไอศกรีมกะทิ",
+      "type": "ขนม",
+      "unit": "ก้อน"
+    },
+    {
+      "calories": "142",
+      "quantity": "1",
+      "title": "ไอศกรีมกาแฟ",
+      "type": "ขนม",
+      "unit": "ก้อน"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "ไอศกรีมชอกโกแล็ต",
+      "type": "ขนม",
+      "unit": "ก้อน"
+    },
+    {
+      "calories": "264",
+      "quantity": "1",
+      "title": "ไอศกรีมเรซิน",
+      "type": "ขนม",
+      "unit": "ก้อน"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "ไอศกรีมวนิลลา",
+      "type": "ขนม",
+      "unit": "ก้อน"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "ไอศกรีมสตรอเบอรี่",
+      "type": "ขนม",
+      "unit": "ก้อน"
+    },
+    {
+      "calories": "344",
+      "quantity": "3",
+      "title": "ฮะเก๋า",
+      "type": "กับข้าว",
+      "unit": "ลูกเล็ก"
+    },
+    {
+      "calories": "55",
+      "quantity": "1",
+      "title": "แฮม",
+      "type": "โปรตีน",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "755",
+      "quantity": "1",
+      "title": "ปลาซาบะต้มมิโซะ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "720",
+      "quantity": "1",
+      "title": "ปลาบุรีย่างซอสเทริยากิ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "645",
+      "quantity": "1",
+      "title": "ปลาซัมมะย่างเกลือ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "720",
+      "quantity": "1",
+      "title": "ปลาอาจิย่างเกลือ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "608",
+      "quantity": "1",
+      "title": "ชุดซาซิมิ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "924",
+      "quantity": "1",
+      "title": "คานิครีมโครเกต์",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "1006",
+      "quantity": "1",
+      "title": "เอบิฟราย (กุ้งทอด)",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "1020",
+      "quantity": "1",
+      "title": "ข้าวหน้าหมูทอดคัทซึด้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "880",
+      "quantity": "1",
+      "title": "ข้าวหน้าเทมปุระ (เทนด้ง)",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "794",
+      "quantity": "1",
+      "title": "ข้าวหน้าปลาไหล (อุนะจู)",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "720",
+      "quantity": "1",
+      "title": "ข้าวหน้าเนื้อ (กิวด้ง)",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "690",
+      "quantity": "1",
+      "title": "ข้าวหน้าไก่โอยาโกะด้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "620",
+      "quantity": "1",
+      "title": "ข้าวหน้าปลามากุโระ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "373",
+      "quantity": "1",
+      "title": "ข้าวอบต่างๆ",
+      "type": "จานเดี่ยว",
+      "unit": "ชุด"
+    },
+    {
+      "calories": "610",
+      "quantity": "1",
+      "title": "ชิราชิ ซูชิ",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "257",
+      "quantity": "1",
+      "title": "Strawberry(HGD)(S)",
+      "type": "ไอศกรีม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "239",
+      "quantity": "1",
+      "title": "au bon pain Chicken Caesar Wrap",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "167",
+      "quantity": "1",
+      "title": "au bon pain Salmon & Wasabi Bagel",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "191",
+      "quantity": "1",
+      "title": "au bon pain Egg Sandwich",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "197",
+      "quantity": "1",
+      "title": "au bon pain Bagle Egg Sandwich",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "325",
+      "quantity": "1",
+      "title": "7-11 บิ๊กกั๊ลฟ์ (ไซส์ L)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "7-11 สเลอปี้ (ไซส์ L)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "50",
+      "quantity": "1",
+      "title": "7-11 ขนมจีบหมู",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "40",
+      "quantity": "1",
+      "title": "7-11 ขนมจีบกุ้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "44",
+      "quantity": "1",
+      "title": "7-11 หมูห่อสาหร่าย",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "7-11 เปาแรบบิทครีม",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "7-11 ซาลาเปาไส้หมููสับ",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "188",
+      "quantity": "1",
+      "title": "7-11 ซาลาเปาไส้หมูแดง",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "278",
+      "quantity": "1",
+      "title": "7-11 แซนด์วิชทูน่า",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "296",
+      "quantity": "1",
+      "title": "7-11 แซนด์วิชไส้กรอกชีส",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "347",
+      "quantity": "1",
+      "title": "7-11 แซนด์วิชแฮมชีส",
+      "type": "เบเกอรี่",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "279",
+      "quantity": "1",
+      "title": "7-11 เบอร์เกอร์หมู",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "7-11 สโมกี้ไบท์",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "210",
+      "quantity": "1",
+      "title": "7-11 ชีสไบท์",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "117",
+      "quantity": "1",
+      "title": "7-11 ฟุตลองสไปซี่",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "104",
+      "quantity": "1",
+      "title": "ผัดหมี่ซั่วปลาเค็มเจ (เจ)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "243",
+      "quantity": "1",
+      "title": "เซี่ยงไฮ้ต้มยำมะพร้าวอ่อน (เจ)",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "125",
+      "quantity": "1",
+      "title": "ปาท่องโก๋ (เจ)",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "155",
+      "quantity": "1",
+      "title": "ข้าวโพดแผ่นทอด (เจ)",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "248",
+      "quantity": "2",
+      "title": "มันทอด (เจ)",
+      "type": "จานเดี่ยว",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "395",
+      "quantity": "1",
+      "title": "หมี่ซั่วผัด (เจ)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "68",
+      "quantity": "1",
+      "title": "ยำกุ้ง 100 กรัม",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "92",
+      "quantity": "1",
+      "title": "สลัดผักน้ำใส 100 กรัม",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "126",
+      "quantity": "1",
+      "title": "ยำเนื้อ 100 กรัม",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "142",
+      "quantity": "1",
+      "title": "สลัดทูน่าน้ำใส 100 กรัม",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "166",
+      "quantity": "1",
+      "title": "สลัดไก่น้ำใส 100 กรัม",
+      "type": "จานเดี่ยว",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "มาม่า รสต้มยำกุ้ง (55g)",
+      "type": "ก๋วยเตี๋ยว",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "คอนเฟล็กซ์ (28g)",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "513",
+      "quantity": "1",
+      "title": "m&m รสอัลมอนด์ (30g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "515",
+      "quantity": "1",
+      "title": "m&m รสพีนัท (40 g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "479",
+      "quantity": "1",
+      "title": "m&m รสช็อกโกแลตนม (40g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "80",
+      "quantity": "5",
+      "title": "ไมโล นักเก็ตส์  (17g)",
+      "type": "ขนม",
+      "unit": "ชิ้้น"
+    },
+    {
+      "calories": "100",
+      "quantity": "5",
+      "title": "คิทแคท ไบทส์ (20g)",
+      "type": "ขนม",
+      "unit": "ชิ้้น"
+    },
+    {
+      "calories": "90",
+      "quantity": "2",
+      "title": "คิทแคท รสช็อกโกแลตนม (17g)",
+      "type": "ขนม",
+      "unit": "ชิ้้น"
+    },
+    {
+      "calories": "380",
+      "quantity": "1",
+      "title": "ถั่วหมั่นหลีหม่ง ตราเจดีย์คู่ (เฉพาะเนื้อ 32g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "190",
+      "quantity": "1",
+      "title": "เมล็ดทานตะวัน อบน้ำผึ้ง 30 กรัม",
+      "type": "ขนม",
+      "unit": "ห่อ"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "เมล็ดฟักทองอบ (25g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "ถั่วลันเตาอบกรอบ กรีนนัท 20 กรัม",
+      "type": "ขนม",
+      "unit": "ห่อ"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "บีทาเก้น พร่องมันเนย",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "เนสที ชานมเย็น",
+      "type": "นม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "50",
+      "quantity": "1",
+      "title": "เนสที ชามะนาว",
+      "type": "นม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "80",
+      "quantity": "5",
+      "title": "โอวัลตินผง",
+      "type": "นม",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "80",
+      "quantity": "5",
+      "title": "ไมโลผง โปรโตมอลล์",
+      "type": "นม",
+      "unit": "ช้อนชา"
+    },
+    {
+      "calories": "70",
+      "quantity": "1",
+      "title": "แลคตาซอย คอลลาเจน (125ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "แลคตาซอย รสช็อกโกแลต (125ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "แลคตาซอย (125ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "130",
+      "quantity": "1",
+      "title": "แลคตาซอย น้ำตาลน้อย (250ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "ไวตามิ้ลค์ ออริจินัล (250ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "110",
+      "quantity": "1",
+      "title": "วีซอย ไฮ-แคลเซียม (230ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "วีซอย หวานน้อย (230ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "100",
+      "quantity": "1",
+      "title": "ดัชมิลล์โยเกิร์ตพร้อมดื่ม รสส้ม (180ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "150",
+      "quantity": "1",
+      "title": "เอนฟาโกร A+ กลิ่นน้ำผึ้ง (180ml)",
+      "type": "นม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "170",
+      "quantity": "1",
+      "title": "เมจิ รสกาแฟ (200ml)",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "เมจิ รสจืด (200ml)",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "เมจิรสจืด ไขมัน0% (200ml)",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "โฟร์โมสต์ยัมมี่ รสจืด (200ml)",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "โฟร์โมสต์ยัมมี่ รสม็อคค่า (200ml)",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "โฟร์โมสต์ยัมมี่ รสช็อกโกแลต (200ml)",
+      "type": "นม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "10",
+      "quantity": "2",
+      "title": "เดนทีนไอซ์ (สเปียร์มินต์)",
+      "type": "ลูกอม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "10",
+      "quantity": "2",
+      "title": "เดนทีนไอซ์ (มะนาว)",
+      "type": "ลูกอม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "10",
+      "quantity": "2",
+      "title": "เดนทีนไอซ์ (มิดไนท์ มินท์)",
+      "type": "ลูกอม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "10",
+      "quantity": "2",
+      "title": "เดนทีนไอซ์ (เชอร์รี่)",
+      "type": "ลูกอม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "10",
+      "quantity": "2",
+      "title": "เดนทีนไอซ์ (เมนโทลิบตัส)",
+      "type": "ลูกอม",
+      "unit": "เม็ด"
+    },
+    {
+      "calories": "140",
+      "quantity": "17",
+      "title": "พริงเกิลส์ รสออริจินัล",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "140",
+      "quantity": "17",
+      "title": "พริงเกิลส์ รสชีส",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "130",
+      "quantity": "17",
+      "title": "พริงเกิลส์ รสพิซซ่า",
+      "type": "ขนม",
+      "unit": "ชิ้น"
+    },
+    {
+      "calories": "247",
+      "quantity": "1",
+      "title": "SNICKER (51g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "70",
+      "quantity": "1",
+      "title": "ซีลีโกะ รสปลาสวรรค์ (20g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "10",
+      "quantity": "1",
+      "title": "ซีลีโกะ รสดั้งเดิม (20g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "260",
+      "quantity": "1",
+      "title": "เถ้าแก่น้อย รสซีฟู๊ด",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "240",
+      "quantity": "1",
+      "title": "เถ้าแก่น้อย รสเผ็ด",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "เถ้าแก่น้อย รสคลาสสิค",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "25",
+      "quantity": "1",
+      "title": "มาชิตะ (5g)",
+      "type": "ขนม",
+      "unit": "ซอง"
+    },
+    {
+      "calories": "300",
+      "quantity": "1",
+      "title": "แฟนต้าน้ำแดง (500ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "สไปร์ท (500ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "200",
+      "quantity": "1",
+      "title": "โค้ก (500ml)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "310",
+      "quantity": "1",
+      "title": "ทูน่าสเปรดพร้อมแคร็กเกอร์",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "ปุ้มปุ้ย (หอยลายทอดกรอบ)",
+      "type": "กับข้าว",
+      "unit": "กระป๋อง"
+    },
+    {
+      "calories": "270",
+      "quantity": "1",
+      "title": "โคลลอน (ครีม)",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "280",
+      "quantity": "1",
+      "title": "โคลลอน (ช็อกโกแลต)",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "254",
+      "quantity": "1",
+      "title": "เมจิ ยัน ยัน ชูเกโบ้ (ครีมช็อกโกแลต)",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "เปปเปอร์ริดจ์ฟาร์ม รสดาร์กโกแลตชีสเค้ก",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "160",
+      "quantity": "1",
+      "title": "เปปเปอร์ริดจ์ฟาร์ม รสแอปเปิ้ลพาย",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "ป๊อกกี้ รสช็อกโกบานาน่า",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ป๊อกกี้ รสสตอร์เบอร์รี่",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "ป๊อกกี้ รสช็อกโกแลต",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "170",
+      "quantity": "1",
+      "title": "ป๊อกกี้ รสสตอร์เบอร์รี่ฟรุ๊ตตี้",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "170",
+      "quantity": "1",
+      "title": "เพรทซ์ รสพิซซ่า",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "190",
+      "quantity": "1",
+      "title": "เพรทซ์",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "เพรทซ์ รสลาบ",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "170",
+      "quantity": "1",
+      "title": "เพรทซ์ รสข้าวโพด",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "โคอะลามาร์ช ช็อกโกแลต",
+      "type": "ขนม",
+      "unit": "กล่อง"
+    },
+    {
+      "calories": "250",
+      "quantity": "1",
+      "title": "แมกนั่มไวท์ ",
+      "type": "ไอศกรีม",
+      "unit": "แท่ง"
+    },
+    {
+      "calories": "75",
+      "quantity": "1",
+      "title": "ไข่ต้ม",
+      "type": "จานเดี่ยว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "55",
+      "quantity": "1",
+      "title": "ไข่ต้ม(เฉพาะไข่แดง)",
+      "type": "จานเดี่ยว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "20",
+      "quantity": "1",
+      "title": "ไข่ต้ม(เฉพาะไข่ขาว)",
+      "type": "จานเดี่ยว",
+      "unit": "ฟอง"
+    },
+    {
+      "calories": "119",
+      "quantity": "1",
+      "title": "แกงเลียง (392 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "506",
+      "quantity": "1",
+      "title": "เส้นใหญ่ราดหน้าหมู (450 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "370",
+      "quantity": "1",
+      "title": "เส้นใหญ่หมูน้ำ (370 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "161",
+      "quantity": "1",
+      "title": "เส้นใหญ่ลูกชิ้นน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "633",
+      "quantity": "1",
+      "title": "เส้นใหญ่ผัดซีอิ๊ว (320 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "442",
+      "quantity": "1",
+      "title": "เส้นเล็กเนื้อเปื่อยน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "488",
+      "quantity": "1",
+      "title": "เส้นเล็กหมูแห้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "222",
+      "quantity": "1",
+      "title": "เส้นหมี่เนื้อสด-เปื่อยน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "260",
+      "quantity": "1",
+      "title": "เส้นหมี่ลูกชิ้นน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "432",
+      "quantity": "1",
+      "title": "เต้าเจี้ยวหลน+ผัดสด (307 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "141",
+      "quantity": "1",
+      "title": "เกี๊ยวน้ำ (523 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "149",
+      "quantity": "1",
+      "title": "เกาเหลาเนื้อตุ๋น (310 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "163",
+      "quantity": "1",
+      "title": "เกาเหลาหมู (506 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "430",
+      "quantity": "1",
+      "title": "หอยทอด (261 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "457",
+      "quantity": "1",
+      "title": "หมี่กรอบราดหน้าทะเล (399 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "253",
+      "quantity": "1",
+      "title": "สุกี้ไก่น้ำ (540 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "399",
+      "quantity": "1",
+      "title": "สุกี้รวมมิตร แห้ง (384 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "207",
+      "quantity": "1",
+      "title": "สุกี้รวมมิตร น้ำ (530 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "265",
+      "quantity": "1",
+      "title": "สลัดปลา",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "251",
+      "quantity": "1",
+      "title": "สลัดกุ้ง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "420",
+      "quantity": "1",
+      "title": "วุ้นเส้นเย็นตาโฟ (498 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "296",
+      "quantity": "1",
+      "title": "ผัดมักกะโรนีกุ้ง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "658",
+      "quantity": "1",
+      "title": "ผัดซีอิ๊วหมูใส่ไข่",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "203",
+      "quantity": "1",
+      "title": "ปลาทู 3 รส (136 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "463",
+      "quantity": "1",
+      "title": "บะหมี่แห้งหมู (244 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "332",
+      "quantity": "1",
+      "title": "บะหมี่เกี๊ยวหมูแดง (485 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "471",
+      "quantity": "1",
+      "title": "บะหมี่หมูแห้ง",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "268",
+      "quantity": "1",
+      "title": "บะหมี่หมูน้ำ",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "216",
+      "quantity": "1",
+      "title": "ต้มเลือดหมู (600 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "214",
+      "quantity": "1",
+      "title": "ซุปเนื้อวัว (443 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "ชาม"
+    },
+    {
+      "calories": "380",
+      "quantity": "1",
+      "title": "ข้าวแกงไตปลา+หมูทอด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "503",
+      "quantity": "1",
+      "title": "ข้าวแกงเขียวหวานลูกชิ้น",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "477",
+      "quantity": "1",
+      "title": "ข้าวแกงมัสหมั่นเนื้อ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "521",
+      "quantity": "1",
+      "title": "ข้าวหมูแดง+น้ำราด (352 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "432",
+      "quantity": "1",
+      "title": "ข้าวหมููอบ (248 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "587",
+      "quantity": "1",
+      "title": "ข้าวหมูทอด",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "490",
+      "quantity": "1",
+      "title": "ข้าวหมูกรอบ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "551",
+      "quantity": "1",
+      "title": "ข้าวหมกไก่+อาจาด (348 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "443",
+      "quantity": "1",
+      "title": "ข้าวหน้าเป็ดย่าง",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "441",
+      "quantity": "1",
+      "title": "ข้าวราดหมูทอดกระเทียมพริกไทย (228 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "462",
+      "quantity": "1",
+      "title": "ข้าวราดผัดหน่อไม้",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "638",
+      "quantity": "1",
+      "title": "ข้าวราดยำไข่ดาว",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "456",
+      "quantity": "1",
+      "title": "ข้าวราดยำหมูยอ (316 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "289",
+      "quantity": "1",
+      "title": "ข้าวราดยำมะเขือยาวกับไข่ต้ม (316 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "467",
+      "quantity": "1",
+      "title": "ข้าวราดพะแนงเนื้อ",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "402",
+      "quantity": "1",
+      "title": "ข้าวราดผัดเผ็ดไก่กับหน่อไม้ดอง (268 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "424",
+      "quantity": "1",
+      "title": "ข้าวราดผัดเผ็ดหอยแมลงภู่ (295 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "307",
+      "quantity": "1",
+      "title": "ข้าวราดผัดเผ็ดหอยลาย (217 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "544",
+      "quantity": "1",
+      "title": "ข้าวราดผัดเผ็ดปลาดุก",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "372",
+      "quantity": "1",
+      "title": "ข้าวราดผัดเต้าหู้ไข่ทรงเครื่อง (355 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "308",
+      "quantity": "1",
+      "title": "ขนมจีนน้ำเงี้ยว (480 กรัม)",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "255",
+      "quantity": "1",
+      "title": "ขนมจีนน้ำยาปักษ์ใต้",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "80",
+      "quantity": "1",
+      "title": "ข้าวสวย",
+      "type": "กับข้าว",
+      "unit": "ทัพพี"
+    },
+    {
+      "calories": "287",
+      "quantity": "1",
+      "title": "เกี๋ยวกรอบ+น้ำจิ้ม",
+      "type": "จานเดี่ยว",
+      "unit": "จาน"
+    },
+    {
+      "calories": "8",
+      "quantity": "1",
+      "title": "เฉาก๊วย (น้ำแข็งใส)",
+      "type": "ขนม",
+      "unit": "ถ้วย"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "Est เอส โคล่า (325 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "กระป๋อง"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "Coca Cola โค้ก (325 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "กระป๋อง"
+    },
+    {
+      "calories": "334",
+      "quantity": "1",
+      "title": "โกโกเย็น (200 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "แก้ว"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "คาลพิส แลคโตะ เครื่องดื่มผสมนมเปรี้ยว รสออริจินัล (350 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "220",
+      "quantity": "1",
+      "title": "คาลพิส แลคโตะ เครื่องดื่มผสมนมเปรี้ยว รสส้ม (350 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "180",
+      "quantity": "1",
+      "title": "คาลพิส แลคโตะ โซดา เครื่องดื่มอัดลมรสนมเปรี้ยว กลิ่นเลมอน (325 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "เครื่องดื่มชูกำลัง แม็กนั่มพลัส .375 (150 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    },
+    {
+      "calories": "90",
+      "quantity": "1",
+      "title": "เนสกาแฟ เอสเปรสโซ่ โรสต์ (180 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "กระป๋อง"
+    },
+    {
+      "calories": "120",
+      "quantity": "1",
+      "title": "เซเว่นอัพ (245 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "กระป๋อง"
+    },
+    {
+      "calories": "140",
+      "quantity": "1",
+      "title": "เครื่องดื่มชูกำลัง เรดดี้ (150 มล.)",
+      "type": "เครื่องดื่ม",
+      "unit": "ขวด"
+    }
+  ], "Adding" :
+[
+
+]
+}

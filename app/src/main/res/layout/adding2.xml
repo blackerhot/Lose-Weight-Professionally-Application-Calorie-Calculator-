@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/eName1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:hint="ชื่อกิจกรรม"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/eCAl1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/eTime"
+            android:ems="10"
+            android:hint="แคลอรี่ที่เผาผลาญ ในระยะเวลา"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/eTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/eName1"
+            android:ems="10"
+            android:hint="ระยะเวลาที่ใช้ หน่วย นาที"
+            android:inputType="number" />
+
+    </RelativeLayout>
+</LinearLayout>

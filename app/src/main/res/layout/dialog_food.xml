@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#E9EFFE"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Space
+            android:id="@+id/space"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/unitT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/relativeLayout"
+            android:layout_marginLeft="27dp"
+            android:layout_marginStart="27dp"
+            android:text="คิดเป็น"
+            android:textSize="19dp" />
+
+        <TextView
+            android:id="@+id/calT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/unitT"
+            android:layout_alignBottom="@+id/unitT"
+            android:layout_marginEnd="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_toLeftOf="@+id/textView10"
+            android:layout_toStartOf="@+id/textView10"
+            android:text="0"
+            android:textSize="23dp" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/unitT"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="33dp"
+            android:layout_marginRight="33dp"
+            android:text="kCal"
+            android:textSize="23dp" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/butAdd"
+            android:layout_marginTop="16dp">
+
+            <Button
+                android:id="@+id/buttonsert"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="34dp"
+
+                android:drawable="@drawable/oval"
+                android:padding="16dp"
+                android:text="เพิ่ม" />
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/unitText"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/space"
+            android:layout_centerHorizontal="true"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:ems="10"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="จำนวน"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/butDel"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:layout_below="@+id/space"
+            android:layout_toLeftOf="@+id/unitText"
+            android:layout_toStartOf="@+id/unitText"
+            android:layout_marginRight="17dp"
+            android:layout_marginEnd="17dp" />
+
+        <Button
+            android:id="@+id/butAdd"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="+"
+            android:layout_below="@+id/space"
+            android:layout_toRightOf="@+id/unitText"
+            android:layout_toEndOf="@+id/unitText"
+            android:layout_marginLeft="17dp"
+            android:layout_marginStart="17dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

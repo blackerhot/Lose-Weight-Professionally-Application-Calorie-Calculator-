@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#E9EFFE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/kopepo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/sdfdsff"
+            android:layout_alignLeft="@+id/sdfdsff"
+            android:layout_alignStart="@+id/sdfdsff"
+            android:layout_marginBottom="11dp"
+            android:layout_weight="1"
+            android:text="น้ำหนัก : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="3dp" />
+
+        <TextView
+            android:id="@+id/textname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/butshowinfoBack"
+            android:layout_marginBottom="40dp"
+            android:layout_toLeftOf="@+id/sAge"
+            android:layout_toStartOf="@+id/sAge"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="86dp" />
+
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView13"
+            android:layout_alignLeft="@+id/textView13"
+            android:layout_alignStart="@+id/textView13"
+            android:layout_marginBottom="15dp"
+            android:text="ชื่อ : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="86dp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView15"
+            android:layout_alignLeft="@+id/textView15"
+            android:layout_alignStart="@+id/textView15"
+            android:layout_marginBottom="15dp"
+            android:text="เพศ : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="120dp" />
+
+        <TextView
+            android:id="@+id/sdfdsff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView18"
+            android:layout_alignStart="@+id/textView18"
+            android:layout_centerVertical="true"
+            android:text="อายุ : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="155dp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/kopepo"
+            android:layout_alignLeft="@+id/kopepo"
+            android:layout_alignStart="@+id/kopepo"
+            android:layout_marginBottom="12dp"
+            android:text="ส่วนสูง : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="189dp" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/sdfdsff"
+            android:text="ค่าดัชนีมวลกาย BMI : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="225dp" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView18"
+            android:text="น้ำหนักอยู่ในเกณฑ์ : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="260dp" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/sBmi"
+            android:text="พลังงานที่ควรได้รับต่อวัน : "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="294dp" />
+
+        <Button
+            android:id="@+id/butshowinfoBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:onClick="backShowinfo"
+            android:text="กลับ"
+            android:layout_alignBaseline="@+id/butshowinfoEdit"
+            android:layout_alignBottom="@+id/butshowinfoEdit"
+            android:layout_toLeftOf="@+id/butshowinfoEdit"
+            android:layout_toStartOf="@+id/butshowinfoEdit"
+            android:layout_marginRight="7dp"
+            android:layout_marginEnd="7dp" />
+
+        <Button
+            android:id="@+id/butshowinfoEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="42dp"
+            android:onClick="ShowinfoGoEdit"
+            android:text="แก้ไข"
+            android:layout_below="@+id/textView17"
+            android:layout_alignRight="@+id/textView"
+            android:layout_alignEnd="@+id/textView" />
+
+        <TextView
+            android:id="@+id/sUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView12"
+            android:layout_toEndOf="@+id/textView15"
+            android:layout_toRightOf="@+id/textView15"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+
+        <TextView
+            android:id="@+id/sGender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView13"
+            android:layout_alignBottom="@+id/textView13"
+            android:layout_alignLeft="@+id/sUser"
+            android:layout_alignStart="@+id/sUser"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/sHeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView15"
+            android:layout_alignBottom="@+id/textView15"
+            android:layout_toEndOf="@+id/kopepo"
+            android:layout_toRightOf="@+id/kopepo"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/sWight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/kopepo"
+            android:layout_toEndOf="@+id/kopepo"
+            android:layout_toRightOf="@+id/kopepo"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/sAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/sdfdsff"
+            android:layout_toEndOf="@+id/sdfdsff"
+            android:layout_toRightOf="@+id/sdfdsff"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/sBmi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView16"
+            android:layout_alignBottom="@+id/textView16"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/textView16"
+            android:layout_toRightOf="@+id/textView16"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/sStand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView17"
+            android:layout_toEndOf="@+id/textView17"
+            android:layout_toRightOf="@+id/textView17"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/sCal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView18"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/textView18"
+            android:layout_toRightOf="@+id/textView18"
+            android:text="ยังไม่มีข้อมูล"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp"
+            android:text="ข้อมูลส่วนตัว"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</LinearLayout>

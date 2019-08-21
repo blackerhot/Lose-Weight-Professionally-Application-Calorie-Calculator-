@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#E9EFFE">
+
+
+    <ImageView
+        android:id="@+id/post_type"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignBottom="@+id/post_unit"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="false" />
+
+    <TextView
+        android:id="@+id/post_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/post_type"
+        android:layout_toRightOf="@+id/post_type"
+        android:fontFamily="sans-serif-light"
+        android:text="Title"
+        android:textSize="19sp" />
+
+    <TextView
+        android:id="@+id/post_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/post_title"
+        android:layout_toEndOf="@+id/post_type"
+        android:layout_toRightOf="@+id/post_type"
+        android:text="Unit"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/post_calories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/post_unit"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="7dp"
+        android:text="Calories"
+        android:textSize="17sp" />
+</RelativeLayout>

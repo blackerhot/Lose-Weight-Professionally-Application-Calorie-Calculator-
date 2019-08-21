@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_food"
+        android:enabled="true"
+        android:icon="@drawable/ic_food"
+        android:title="อาหาร"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_activity"
+        android:enabled="true"
+        android:icon="@drawable/ic_activity"
+        android:title="กิจวัตร"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_statistic"
+        android:enabled="true"
+        android:icon="@drawable/ic_statistic"
+        android:title="สถิติ"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_think"
+        android:enabled="true"
+        android:icon="@drawable/ic_think"
+        android:title="น่ารู้"
+        app:showAsAction="ifRoom" />
+
+</menu>

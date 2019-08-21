@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="menusearch"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_adding"
+        android:enabled="true"
+        android:icon="@drawable/ic_adding"
+        android:title="menuadding"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_sortbytitle2"
+        android:enabled="true"
+        android:title="เรียงตามชื่อ ก-ฮ"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_sortbytitle1"
+        android:enabled="true"
+        android:title="เรียงตามชื่อ ฮ-ก"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_sortbycalories1"
+        android:enabled="true"
+        android:title="เรียงตามแคลอรี่น้อย-มาก"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_sortbycalories2"
+        android:enabled="true"
+        android:title="เรียงตามแคลอรี่มาก-น้อย"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_edit"
+        android:enabled="true"
+        android:title="ข้อมูลส่วนตัว"
+        android:showAsAction="ifRoom" />
+</menu>
